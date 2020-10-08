@@ -6,4 +6,5 @@ Created on Thu Oct  8 08:40:42 2020
 @author: melisamotta
 """
 
-print('good morning')
+def func(a,b):
+    return a + b
